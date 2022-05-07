@@ -49,21 +49,15 @@ Go to the project directory
   cd nlw-return-origin
 ```
 
-## Start the server
+## Open website
 
-Open terminal and execute the following command:
+This website is not published so if you want to view it you just need to open the `index.html` in a browser or, if you use Visual Studio Code, just do the following:
 
-```bash
-  npm run dev
-```
+- Expand `src` directory
+- Right click on `Index.html` file
+- Chose `Open with Live Server`
 
-## Run tests
-
-Open terminal and execute the following command:
-
-```bash
-  npm run test
-```
+If you don't have the extension Live Server installed, you can find it [here](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 # License
 
