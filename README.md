@@ -16,10 +16,6 @@ You can find the layout of this project [in this link](https://www.figma.com/com
 
 You must create an account to access and view.
 
-# Improvements checklist
-
-
-
 # Technologies
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -51,13 +47,7 @@ Go to the project directory
 
 ## Open website
 
-This website is not published so if you want to view it you just need to open the `index.html` in a browser or, if you use Visual Studio Code, just do the following:
-
-- Expand `src` directory
-- Right click on `Index.html` file
-- Chose `Open with Live Server`
-
-If you don't have the extension Live Server installed, you can find it [here](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+You can access the website at https://pncsoares.github.io/nlw-return-origin/src/
 
 # License
 
